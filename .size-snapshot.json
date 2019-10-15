@@ -1,0 +1,36 @@
+{
+  "dist/avatar.cjs.development.js": {
+    "bundled": 1360,
+    "minified": 1061,
+    "gzipped": 406
+  },
+  "dist/avatar.cjs.production.js": {
+    "bundled": 1360,
+    "minified": 1061,
+    "gzipped": 406
+  },
+  "dist/avatar.esm.js": {
+    "bundled": 949,
+    "minified": 742,
+    "gzipped": 320,
+    "treeshaked": {
+      "rollup": {
+        "code": 520,
+        "import_statements": 316
+      },
+      "webpack": {
+        "code": 1870
+      }
+    }
+  },
+  "dist/avatar.umd.development.js": {
+    "bundled": 215521,
+    "minified": 45220,
+    "gzipped": 15846
+  },
+  "dist/avatar.umd.production.js": {
+    "bundled": 215521,
+    "minified": 45220,
+    "gzipped": 15846
+  }
+}
