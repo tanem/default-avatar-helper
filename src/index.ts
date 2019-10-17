@@ -31,8 +31,10 @@ const getCode = pipe(
 const getColour = (palette: Palette, initials: string) =>
   palette[getCode(initials) % palette.length]
 
-export const getAvatarDetails = curry((palette: Palette, name: string) => {
-  const initials = getInitials(name)
-  const colour = getColour(palette, initials)
-  return { colour, initials }
-})
+export const getDefaultAvatarDetails = curry(
+  (palette: Palette, name: string) => {
+    const initials = getInitials(name)
+    const colour = getColour(palette, initials)
+    return { colour, initials }
+  }
+)

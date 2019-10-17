@@ -1,10 +1,10 @@
 {
-  "name": "@tanem/avatar",
+  "name": "default-avatar-helper",
   "version": "0.1.0",
-  "description": "Generate default avatar details.",
+  "description": "A helper for creating default avatars.",
   "main": "dist/index.js",
-  "module": "dist/avatar.esm.js",
-  "jsnext:main": "dist/avatar.esm.js",
+  "module": "dist/default-avatar-helper.esm.js",
+  "jsnext:main": "dist/default-avatar-helper.esm.js",
   "typings": "dist/index.d.ts",
   "sideEffects": false,
   "files": [
@@ -25,7 +25,7 @@
     "format": "prettier --write \"**/*.{js,ts}\"",
     "lint": "eslint .",
     "postbundle": "del compiled && cp-cli ./index.js ./dist/index.js",
-    "postversion": "git push && git push --tags && npm publish --access=public",
+    "postversion": "git push && git push --tags && npm publish",
     "release": "npm version -m 'Release v%s'",
     "test": "run-s check:* lint build test:*",
     "test:cjs": "jest --config ./scripts/jest/config.cjs.js",
@@ -36,19 +36,21 @@
     "test:umdprod": "jest --config ./scripts/jest/config.umdprod.js",
     "version": "run-s test changelog authors && git add ."
   },
-  "repository": "github:tanem/avatar",
+  "repository": "github:tanem/default-avatar-helper",
   "keywords": [
     "avatar",
     "avatar-generator",
     "avatar-placeholder",
     "avatars",
+    "default-avatar",
+    "helper",
     "javascript",
     "typescript"
   ],
   "author": "Tane Morgan (https://github.com/tanem)",
   "license": "MIT",
-  "bugs": "https://github.com/tanem/avatar/issues",
-  "homepage": "https://github.com/tanem/avatar",
+  "bugs": "https://github.com/tanem/default-avatar-helper/issues",
+  "homepage": "https://github.com/tanem/default-avatar-helper",
   "dependencies": {
     "@babel/runtime": "^7.6.3",
     "lodash": "^4.17.15"
@@ -78,7 +80,6 @@
     "rollup-plugin-commonjs": "10.1.0",
     "rollup-plugin-node-resolve": "5.2.0",
     "rollup-plugin-replace": "2.2.0",
-    "rollup-plugin-size-snapshot": "0.10.0",
     "rollup-plugin-sourcemaps": "0.4.2",
     "rollup-plugin-terser": "5.1.2",
     "tanem-scripts": "2.0.14",

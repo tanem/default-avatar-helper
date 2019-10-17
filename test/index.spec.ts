@@ -1,16 +1,16 @@
-import { getAvatarDetails } from '../src'
+import { getDefaultAvatarDetails } from '../src'
 
 const palette = ['red', 'green', 'blue']
 const name = 'random name'
 
-test('returns avatar details', () => {
-  expect(getAvatarDetails(palette, name)).toEqual({
+test('returns default avatar details', () => {
+  expect(getDefaultAvatarDetails(palette, name)).toEqual({
     initials: 'RN',
     colour: 'green'
   })
 
-  const getAvatarDetailsWithPalette = getAvatarDetails(palette)
-  expect(getAvatarDetailsWithPalette(name)).toEqual({
+  const getDefaultAvatarDetailsWithPalette = getDefaultAvatarDetails(palette)
+  expect(getDefaultAvatarDetailsWithPalette(name)).toEqual({
     initials: 'RN',
     colour: 'green'
   })
