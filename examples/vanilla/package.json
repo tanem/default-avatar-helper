@@ -1,0 +1,16 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "default-avatar-helper vanilla example",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "default-avatar-helper": "latest"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  }
+}

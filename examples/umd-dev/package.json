@@ -1,0 +1,17 @@
+{
+  "name": "umd-dev",
+  "description": "default-avatar-helper umd-dev example",
+  "keywords": [
+    "default-avatar-helper"
+  ],
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "1.12.4"
+  }
+}
