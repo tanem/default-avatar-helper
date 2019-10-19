@@ -31,7 +31,7 @@ create a default avatar.
 
 ## Live Examples
 
-TODO.
+_TODO_
 
 ## API
 
