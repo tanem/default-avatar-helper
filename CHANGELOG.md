@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.0.1](https://github.com/tanem/default-avatar-helper/tree/v1.0.1) (2019-10-20)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v1.0.0...v1.0.1)
+
+**Merged pull requests:**
+
+- Update dependency rollup to v1.25.0 [#7](https://github.com/tanem/default-avatar-helper/pull/7) ([renovate[bot]](https://github.com/apps/renovate))
+- Add CodeSandbox examples [#8](https://github.com/tanem/default-avatar-helper/pull/8) ([tanem](https://github.com/tanem))
+
 ## [v1.0.0](https://github.com/tanem/default-avatar-helper/tree/v1.0.0) (2019-10-20)
 
 **Merged pull requests:**
