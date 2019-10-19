@@ -1,6 +1,6 @@
 {
   "name": "default-avatar-helper",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A helper for creating default avatars.",
   "main": "dist/index.js",
   "module": "dist/default-avatar-helper.esm.js",
