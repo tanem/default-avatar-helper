@@ -2,7 +2,6 @@ import babel from 'rollup-plugin-babel'
 import commonjs from 'rollup-plugin-commonjs'
 import nodeResolve from 'rollup-plugin-node-resolve'
 import replace from 'rollup-plugin-replace'
-import { sizeSnapshot } from 'rollup-plugin-size-snapshot'
 import sourcemaps from 'rollup-plugin-sourcemaps'
 import { terser } from 'rollup-plugin-terser'
 import pkg from './package.json'
@@ -42,7 +41,6 @@ const getPlugins = bundleType => [
     )
   }),
   sourcemaps(),
-  sizeSnapshot(),
   isProduction(bundleType) &&
     /* eslint-disable @typescript-eslint/camelcase */
     terser({
@@ -64,7 +62,7 @@ const getCjsConfig = bundleType => ({
   input,
   external: makeExternalPredicate(),
   output: {
-    file: `dist/avatar.cjs.${
+    file: `dist/default-avatar-helper.cjs.${
       isProduction(bundleType) ? 'production' : 'development'
     }.js`,
     format: 'cjs',
@@ -87,11 +85,11 @@ const getEsConfig = () => ({
 const getUmdConfig = bundleType => ({
   input,
   output: {
-    file: `dist/avatar.umd.${
+    file: `dist/default-avatar-helper.umd.${
       isProduction(bundleType) ? 'production' : 'development'
     }.js`,
     format: 'umd',
-    name: 'Avatar',
+    name: 'DefaultAvatarHelper',
     sourcemap: true
   },
   plugins: getPlugins(bundleType)

@@ -3,6 +3,6 @@ const srcConfig = require('./config.src')
 module.exports = Object.assign({}, srcConfig, {
   collectCoverage: false,
   moduleNameMapper: {
-    '^../src$': `<rootDir>/dist/avatar.umd.production.js`
+    '^../src$': `<rootDir>/dist/default-avatar-helper.umd.production.js`
   }
 })
