@@ -31,7 +31,9 @@ create a default avatar.
 
 ## Live Examples
 
-_TODO_
+- Vanilla: [Source](https://github.com/tanem/default-avatar-helper/tree/master/examples/vanilla) | [Sandbox](https://codesandbox.io/s/github/tanem/default-avatar-helper/tree/master/examples/vanilla)
+- UMD Build (Development): [Source](https://github.com/tanem/default-avatar-helper/tree/master/examples/umd-dev) | [Sandbox](https://codesandbox.io/s/github/tanem/default-avatar-helper/tree/master/examples/umd-dev)
+- UMD Build (Production): [Source](https://github.com/tanem/default-avatar-helper/tree/master/examples/umd-prod) | [Sandbox](https://codesandbox.io/s/github/tanem/default-avatar-helper/tree/master/examples/umd-prod)
 
 ## API
 
