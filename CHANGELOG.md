@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.0.9](https://github.com/tanem/default-avatar-helper/tree/v1.0.9) (2020-03-13)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v1.0.8...v1.0.9)
+
+#### :house: Internal
+
+- [#99](https://github.com/tanem/default-avatar-helper/pull/99) Update dependency tanem-scripts to v5.0.14 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.8](https://github.com/tanem/default-avatar-helper/tree/v1.0.8) (2020-03-13)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v1.0.7...v1.0.8)
 
