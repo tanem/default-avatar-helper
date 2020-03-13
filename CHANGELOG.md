@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.0.8](https://github.com/tanem/default-avatar-helper/tree/v1.0.8) (2020-03-13)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v1.0.7...v1.0.8)
+
+#### :house: Internal
+
+- [#100](https://github.com/tanem/default-avatar-helper/pull/100) Update dependency rollup-plugin-terser to v5.3.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#101](https://github.com/tanem/default-avatar-helper/pull/101) Update typescript-eslint monorepo to v2.23.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#98](https://github.com/tanem/default-avatar-helper/pull/98) Update dependency rollup-plugin-babel to v4.4.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#97](https://github.com/tanem/default-avatar-helper/pull/97) Update dependency @types/jest to v25.1.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#96](https://github.com/tanem/default-avatar-helper/pull/96) Update dependency cross-env to v7.0.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#95](https://github.com/tanem/default-avatar-helper/pull/95) Update babel monorepo to v7.8.7 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.7](https://github.com/tanem/default-avatar-helper/tree/v1.0.7) (2020-03-07)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v1.0.6...v1.0.7)
 
