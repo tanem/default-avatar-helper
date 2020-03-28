@@ -17,28 +17,28 @@ const input = './compiled/index.js'
 const makeExternalPredicate = () => {
   const externals = Object.keys(pkg.dependencies)
   const pattern = new RegExp(`^(${externals.join('|')})($|/)`)
-  return id => pattern.test(id)
+  return (id) => pattern.test(id)
 }
 
-const isProduction = bundleType =>
+const isProduction = (bundleType) =>
   bundleType === CJS_PROD || bundleType === UMD_PROD
 
-const getPlugins = bundleType => [
+const getPlugins = (bundleType) => [
   nodeResolve(),
   commonjs({
-    include: 'node_modules/**'
+    include: 'node_modules/**',
   }),
   babel({
     babelrc: false,
     exclude: 'node_modules/**',
     presets: [['@babel/env', { loose: true, modules: false }]],
     plugins: ['@babel/transform-runtime', 'lodash'],
-    runtimeHelpers: true
+    runtimeHelpers: true,
   }),
   replace({
     'process.env.NODE_ENV': JSON.stringify(
       isProduction(bundleType) ? 'production' : 'development'
-    )
+    ),
   }),
   sourcemaps(),
   isProduction(bundleType) &&
@@ -49,16 +49,16 @@ const getPlugins = bundleType => [
       compress: {
         keep_infinity: true,
         passes: 10,
-        pure_getters: true
+        pure_getters: true,
       },
       warnings: true,
       ecma: 5,
-      toplevel: bundleType === CJS_DEV || bundleType === CJS_PROD
-    })
+      toplevel: bundleType === CJS_DEV || bundleType === CJS_PROD,
+    }),
   /* eslint-enable @typescript-eslint/camelcase */
 ]
 
-const getCjsConfig = bundleType => ({
+const getCjsConfig = (bundleType) => ({
   input,
   external: makeExternalPredicate(),
   output: {
@@ -66,9 +66,9 @@ const getCjsConfig = bundleType => ({
       isProduction(bundleType) ? 'production' : 'development'
     }.js`,
     format: 'cjs',
-    sourcemap: true
+    sourcemap: true,
   },
-  plugins: getPlugins(bundleType)
+  plugins: getPlugins(bundleType),
 })
 
 const getEsConfig = () => ({
@@ -77,12 +77,12 @@ const getEsConfig = () => ({
   output: {
     file: pkg.module,
     format: 'es',
-    sourcemap: true
+    sourcemap: true,
   },
-  plugins: getPlugins(ES)
+  plugins: getPlugins(ES),
 })
 
-const getUmdConfig = bundleType => ({
+const getUmdConfig = (bundleType) => ({
   input,
   output: {
     file: `dist/default-avatar-helper.umd.${
@@ -90,9 +90,9 @@ const getUmdConfig = bundleType => ({
     }.js`,
     format: 'umd',
     name: 'DefaultAvatarHelper',
-    sourcemap: true
+    sourcemap: true,
   },
-  plugins: getPlugins(bundleType)
+  plugins: getPlugins(bundleType),
 })
 
 export default [
@@ -100,5 +100,5 @@ export default [
   getCjsConfig(CJS_PROD),
   getEsConfig(),
   getUmdConfig(UMD_DEV),
-  getUmdConfig(UMD_PROD)
+  getUmdConfig(UMD_PROD),
 ]
