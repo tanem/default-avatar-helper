@@ -6,5 +6,5 @@ module.exports = {
   rootDir: process.cwd(),
   roots: ['<rootDir>/test'],
   testMatch: ['<rootDir>/test/*.spec.ts'],
-  transform: { '^.+\\.(js|ts)$': 'ts-jest' }
+  transform: { '^.+\\.(js|ts)$': 'ts-jest' },
 }

@@ -8,7 +8,7 @@ import {
   slice,
   split,
   upperFirst,
-  words
+  words,
 } from 'lodash/fp'
 
 type Palette = string[]
@@ -23,7 +23,7 @@ const getInitials = pipe(
 
 const getCode = pipe(
   split(''),
-  map(c => c.charCodeAt(0)),
+  map((c) => c.charCodeAt(0)),
   join(''),
   parseInt(10)
 )
