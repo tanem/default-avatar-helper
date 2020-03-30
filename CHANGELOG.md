@@ -1,5 +1,18 @@
 # Changelog
 
+## [v1.0.11](https://github.com/tanem/default-avatar-helper/tree/v1.0.11) (2020-03-30)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v1.0.10...v1.0.11)
+
+#### :house: Internal
+
+- [#102](https://github.com/tanem/default-avatar-helper/pull/102) Update dependency rollup to v2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#104](https://github.com/tanem/default-avatar-helper/pull/104) Update typescript-eslint monorepo to v2.25.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#105](https://github.com/tanem/default-avatar-helper/pull/105) Update dependency tanem-scripts to v5.0.16 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#108](https://github.com/tanem/default-avatar-helper/pull/108) Update dependency prettier to v2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#107](https://github.com/tanem/default-avatar-helper/pull/107) Update dependency eslint-config-prettier to v6.10.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#106](https://github.com/tanem/default-avatar-helper/pull/106) Update babel monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+- [#109](https://github.com/tanem/default-avatar-helper/pull/109) Use codecov bash uploader ([@tanem](https://github.com/tanem))
+
 ## [v1.0.10](https://github.com/tanem/default-avatar-helper/tree/v1.0.10) (2020-03-21)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v1.0.9...v1.0.10)
 
