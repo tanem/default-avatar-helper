@@ -1,5 +1,23 @@
 # Changelog
 
+## [v1.0.17](https://github.com/tanem/default-avatar-helper/tree/v1.0.17) (2020-05-17)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v1.0.16...v1.0.17)
+
+#### :house: Internal
+
+- [#149](https://github.com/tanem/default-avatar-helper/pull/149) Update dependency @types/jest to v25.2.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#148](https://github.com/tanem/default-avatar-helper/pull/148) Update typescript-eslint monorepo to v2.33.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#147](https://github.com/tanem/default-avatar-helper/pull/147) Update dependency typescript to v3.9.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#146](https://github.com/tanem/default-avatar-helper/pull/146) Update dependency ts-jest to v25.5.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#145](https://github.com/tanem/default-avatar-helper/pull/145) Update dependency eslint to v7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#144](https://github.com/tanem/default-avatar-helper/pull/144) Update dependency rollup-plugin-sourcemaps to v0.6.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#142](https://github.com/tanem/default-avatar-helper/pull/142) Update dependency jest to v26 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#141](https://github.com/tanem/default-avatar-helper/pull/141) Update typescript-eslint monorepo to v2.31.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#140](https://github.com/tanem/default-avatar-helper/pull/140) Update dependency tanem-scripts to v5.0.22 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#139](https://github.com/tanem/default-avatar-helper/pull/139) Update dependency rollup-plugin-sourcemaps to v0.6.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#138](https://github.com/tanem/default-avatar-helper/pull/138) Update dependency rollup to v2.7.6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#137](https://github.com/tanem/default-avatar-helper/pull/137) Update babel monorepo to v7.9.6 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.16](https://github.com/tanem/default-avatar-helper/tree/v1.0.16) (2020-05-02)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v1.0.15...v1.0.16)
 
