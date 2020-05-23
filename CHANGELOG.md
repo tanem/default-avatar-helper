@@ -1,5 +1,17 @@
 # Changelog
 
+## [v2.0.0](https://github.com/tanem/default-avatar-helper/tree/v2.0.0) (2020-05-23)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v1.0.18...v2.0.0)
+
+#### :boom: Breaking Change
+
+- [#157](https://github.com/tanem/default-avatar-helper/pull/157) Don't bundle lodash in UMD builds ([@tanem](https://github.com/tanem))
+
+#### :house: Internal
+
+- [#156](https://github.com/tanem/default-avatar-helper/pull/156) Update dependency typescript to v3.9.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#155](https://github.com/tanem/default-avatar-helper/pull/155) Update dependency @types/lodash to v4.14.152 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.18](https://github.com/tanem/default-avatar-helper/tree/v1.0.18) (2020-05-22)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v1.0.17...v1.0.18)
 
