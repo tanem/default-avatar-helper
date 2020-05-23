@@ -84,11 +84,15 @@ const getEsConfig = () => ({
 
 const getUmdConfig = (bundleType) => ({
   input,
+  external: makeExternalPredicate(),
   output: {
     file: `dist/default-avatar-helper.umd.${
       isProduction(bundleType) ? 'production' : 'development'
     }.js`,
     format: 'umd',
+    globals: (id) => {
+      if (/lodash/.test(id)) return `_.${id.split('/').pop()}`
+    },
     name: 'DefaultAvatarHelper',
     sourcemap: true,
   },

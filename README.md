@@ -80,6 +80,10 @@ There are also UMD builds available via [unpkg](https://unpkg.com/):
 - https://unpkg.com/default-avatar-helper/dist/default-avatar-helper.umd.development.js
 - https://unpkg.com/default-avatar-helper/dist/default-avatar-helper.umd.production.js
 
+Make sure you have already included:
+
+- [lodash/fp](<https://cdn.jsdelivr.net/g/lodash@4(lodash.min.js+lodash.fp.min.js)>)
+
 ## License
 
 MIT
