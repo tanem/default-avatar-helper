@@ -42,7 +42,6 @@ const getPlugins = (bundleType) => [
   }),
   sourcemaps(),
   isProduction(bundleType) &&
-    /* eslint-disable @typescript-eslint/camelcase */
     terser({
       sourcemap: true,
       output: { comments: false },
@@ -55,7 +54,6 @@ const getPlugins = (bundleType) => [
       ecma: 5,
       toplevel: bundleType === CJS_DEV || bundleType === CJS_PROD,
     }),
-  /* eslint-enable @typescript-eslint/camelcase */
 ]
 
 const getCjsConfig = (bundleType) => ({
