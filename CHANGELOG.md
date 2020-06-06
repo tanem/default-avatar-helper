@@ -1,5 +1,16 @@
 # Changelog
 
+## [v2.0.2](https://github.com/tanem/default-avatar-helper/tree/v2.0.2) (2020-06-06)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.1...v2.0.2)
+
+#### :house: Internal
+
+- [#168](https://github.com/tanem/default-avatar-helper/pull/168) Update dependency @types/lodash to v4.14.155 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#167](https://github.com/tanem/default-avatar-helper/pull/167) Update typescript-eslint monorepo to v3.1.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#166](https://github.com/tanem/default-avatar-helper/pull/166) Update dependency ts-jest to v26.1.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#165](https://github.com/tanem/default-avatar-helper/pull/165) Update babel monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+- [#164](https://github.com/tanem/default-avatar-helper/pull/164) Update dependency @types/lodash to v4.14.154 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.1](https://github.com/tanem/default-avatar-helper/tree/v2.0.1) (2020-06-01)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.0...v2.0.1)
 
