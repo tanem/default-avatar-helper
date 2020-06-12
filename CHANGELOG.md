@@ -1,7 +1,7 @@
 # Changelog
 
-## [v2.0.3](https://github.com/tanem/default-avatar-helper/tree/v2.0.3) (2020-06-12)
-[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.2...v2.0.3)
+## [v2.0.4](https://github.com/tanem/default-avatar-helper/tree/v2.0.4) (2020-06-12)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.2...v2.0.4)
 
 #### :house: Internal
 
