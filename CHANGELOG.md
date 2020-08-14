@@ -1,5 +1,19 @@
 # Changelog
 
+## [v2.0.13](https://github.com/tanem/default-avatar-helper/tree/v2.0.13) (2020-08-14)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.12...v2.0.13)
+
+#### :house: Internal
+
+- [#230](https://github.com/tanem/default-avatar-helper/pull/230) Update dependency ts-jest to v26.2.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#229](https://github.com/tanem/default-avatar-helper/pull/229) Update typescript-eslint monorepo to v3.9.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#228](https://github.com/tanem/default-avatar-helper/pull/228) Update dependency rollup-plugin-terser to v7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#227](https://github.com/tanem/default-avatar-helper/pull/227) Update dependency tanem-scripts to v5.0.35 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#226](https://github.com/tanem/default-avatar-helper/pull/226) Update dependency rollup to v2.23.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#225](https://github.com/tanem/default-avatar-helper/pull/225) Update dependency @types/lodash to v4.14.159 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#224](https://github.com/tanem/default-avatar-helper/pull/224) Update dependency @types/jest to v26.0.9 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#223](https://github.com/tanem/default-avatar-helper/pull/223) Update babel monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.12](https://github.com/tanem/default-avatar-helper/tree/v2.0.12) (2020-08-07)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.11...v2.0.12)
 
