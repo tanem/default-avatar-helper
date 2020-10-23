@@ -55,7 +55,7 @@
     "@babel/core": "7.12.3",
     "@babel/plugin-transform-runtime": "7.12.1",
     "@babel/preset-env": "7.12.1",
-    "@types/jest": "26.0.14",
+    "@types/jest": "26.0.15",
     "@types/lodash": "4.14.162",
     "@typescript-eslint/eslint-plugin": "4.5.0",
     "@typescript-eslint/parser": "4.5.0",
