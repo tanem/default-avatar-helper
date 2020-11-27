@@ -1,5 +1,14 @@
 # Changelog
 
+## [v2.0.24](https://github.com/tanem/default-avatar-helper/tree/v2.0.24) (2020-11-27)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.23...v2.0.24)
+
+#### :house: Internal
+
+- [#317](https://github.com/tanem/default-avatar-helper/pull/317) Update typescript-eslint monorepo to v4.8.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#316](https://github.com/tanem/default-avatar-helper/pull/316) Update dependency tanem-scripts to v6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#314](https://github.com/tanem/default-avatar-helper/pull/314) Update dependency eslint to v7.14.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.23](https://github.com/tanem/default-avatar-helper/tree/v2.0.23) (2020-11-23)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.22...v2.0.23)
 
