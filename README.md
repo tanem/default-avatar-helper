@@ -1,11 +1,10 @@
 # default-avatar-helper
 
 [![npm version](https://img.shields.io/npm/v/default-avatar-helper.svg?style=flat-square)](https://www.npmjs.com/package/default-avatar-helper)
-[![build status](https://img.shields.io/travis/tanem/default-avatar-helper/master.svg?style=flat-square)](https://travis-ci.org/tanem/default-avatar-helper)
+[![build status](https://img.shields.io/github/workflow/status/tanem/default-avatar-helper/CI?style=flat-square)](https://github.com/tanem/default-avatar-helper/actions?query=workflow%3ACI)
 [![coverage status](https://img.shields.io/codecov/c/github/tanem/default-avatar-helper.svg?style=flat-square)](https://codecov.io/gh/tanem/default-avatar-helper)
 [![npm downloads](https://img.shields.io/npm/dm/default-avatar-helper.svg?style=flat-square)](https://www.npmjs.com/package/default-avatar-helper)
-[![size](http://img.badgesize.io/https://unpkg.com/default-avatar-helper/dist/default-avatar-helper.umd.production.js?label=size&style=flat-square)](https://unpkg.com/default-avatar-helper/dist/)
-[![gzip-size](http://img.badgesize.io/https://unpkg.com/default-avatar-helper/dist/default-avatar-helper.umd.production.js?compression=gzip&label=gzip%20size&style=flat-square)](https://unpkg.com/default-avatar-helper/dist/)
+[![minzipped size](https://img.shields.io/bundlephobia/minzip/default-avatar-helper?style=flat-square)](https://bundlephobia.com/result?p=default-avatar-helper)
 
 > A helper for creating default avatars.
 
