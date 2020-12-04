@@ -1,5 +1,17 @@
 # Changelog
 
+## [v2.0.25](https://github.com/tanem/default-avatar-helper/tree/v2.0.25) (2020-12-04)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.24...v2.0.25)
+
+#### :house: Internal
+
+- [#322](https://github.com/tanem/default-avatar-helper/pull/322) Switch from travis to gh actions ([@tanem](https://github.com/tanem))
+- [#321](https://github.com/tanem/default-avatar-helper/pull/321) Update typescript-eslint monorepo to v4.9.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#320](https://github.com/tanem/default-avatar-helper/pull/320) Update dependency rollup to v2.34.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#319](https://github.com/tanem/default-avatar-helper/pull/319) Update dependency prettier to v2.2.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#318](https://github.com/tanem/default-avatar-helper/pull/318) Update dependency tanem-scripts to v6.0.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#315](https://github.com/tanem/default-avatar-helper/pull/315) Update babel monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.24](https://github.com/tanem/default-avatar-helper/tree/v2.0.24) (2020-11-27)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.23...v2.0.24)
 
