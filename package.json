@@ -52,9 +52,9 @@
     "lodash": "^4.17.20"
   },
   "devDependencies": {
-    "@babel/core": "7.12.13",
+    "@babel/core": "7.12.16",
     "@babel/plugin-transform-runtime": "7.12.15",
-    "@babel/preset-env": "7.12.13",
+    "@babel/preset-env": "7.12.16",
     "@types/jest": "26.0.20",
     "@types/lodash": "4.14.168",
     "@typescript-eslint/eslint-plugin": "4.15.0",
