@@ -49,7 +49,7 @@
   "homepage": "https://github.com/tanem/default-avatar-helper",
   "dependencies": {
     "@babel/runtime": "^7.12.18",
-    "lodash": "^4.17.20"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@babel/core": "7.12.17",
