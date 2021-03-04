@@ -48,13 +48,13 @@
   "bugs": "https://github.com/tanem/default-avatar-helper/issues",
   "homepage": "https://github.com/tanem/default-avatar-helper",
   "dependencies": {
-    "@babel/runtime": "^7.12.18",
+    "@babel/runtime": "^7.13.9",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "@babel/core": "7.12.17",
-    "@babel/plugin-transform-runtime": "7.12.17",
-    "@babel/preset-env": "7.12.17",
+    "@babel/core": "7.13.8",
+    "@babel/plugin-transform-runtime": "7.13.9",
+    "@babel/preset-env": "7.13.9",
     "@types/jest": "26.0.20",
     "@types/lodash": "4.14.168",
     "@typescript-eslint/eslint-plugin": "4.16.1",
