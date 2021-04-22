@@ -1,5 +1,14 @@
 # Changelog
 
+## [v2.0.38](https://github.com/tanem/default-avatar-helper/tree/v2.0.38) (2021-04-22)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.37...v2.0.38)
+
+#### :house: Internal
+
+- [#418](https://github.com/tanem/default-avatar-helper/pull/418) Update dependency tanem-scripts to v6.0.15 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#417](https://github.com/tanem/default-avatar-helper/pull/417) Update dependency ts-jest to v26.5.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#416](https://github.com/tanem/default-avatar-helper/pull/416) Update dependency eslint-plugin-prettier to v3.4.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.37](https://github.com/tanem/default-avatar-helper/tree/v2.0.37) (2021-04-17)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.36...v2.0.37)
 
