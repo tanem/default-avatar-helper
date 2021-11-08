@@ -1,5 +1,12 @@
 # Changelog
 
+## [v2.0.62](https://github.com/tanem/default-avatar-helper/tree/v2.0.62) (2021-11-08)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.61...v2.0.62)
+
+#### :house: Internal
+
+- [#552](https://github.com/tanem/default-avatar-helper/pull/552) Housekeeping ([@tanem](https://github.com/tanem))
+
 ## [v2.0.61](https://github.com/tanem/default-avatar-helper/tree/v2.0.61) (2021-11-05)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.60...v2.0.61)
 
