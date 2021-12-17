@@ -1,5 +1,24 @@
 # Changelog
 
+## [v2.0.66](https://github.com/tanem/default-avatar-helper/tree/v2.0.66) (2021-12-17)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.65...v2.0.66)
+
+#### :house: Internal
+
+- [#577](https://github.com/tanem/default-avatar-helper/pull/577) Update typescript-eslint monorepo to v5.7.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#579](https://github.com/tanem/default-avatar-helper/pull/579) Update dependency typescript to v4.5.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#578](https://github.com/tanem/default-avatar-helper/pull/578) Update babel monorepo to v7.16.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#576](https://github.com/tanem/default-avatar-helper/pull/576) Update dependency jest to v27.4.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#575](https://github.com/tanem/default-avatar-helper/pull/575) Update dependency rollup to v2.61.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#574](https://github.com/tanem/default-avatar-helper/pull/574) Update dependency jest to v27.4.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#573](https://github.com/tanem/default-avatar-helper/pull/573) Update dependency typescript to v4.5.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#572](https://github.com/tanem/default-avatar-helper/pull/572) Update dependency @types/lodash to v4.14.178 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#569](https://github.com/tanem/default-avatar-helper/pull/569) Update dependency ts-jest to v27.1.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#571](https://github.com/tanem/default-avatar-helper/pull/571) Update dependency eslint to v8.4.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#570](https://github.com/tanem/default-avatar-helper/pull/570) Update typescript-eslint monorepo to v5.6.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#568](https://github.com/tanem/default-avatar-helper/pull/568) Update dependency prettier to v2.5.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#567](https://github.com/tanem/default-avatar-helper/pull/567) Update dependency jest to v27.4.3 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.65](https://github.com/tanem/default-avatar-helper/tree/v2.0.65) (2021-12-03)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.64...v2.0.65)
 
