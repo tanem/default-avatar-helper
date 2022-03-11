@@ -1,5 +1,12 @@
 # Changelog
 
+## [v2.0.76](https://github.com/tanem/default-avatar-helper/tree/v2.0.76) (2022-03-11)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.75...v2.0.76)
+
+#### :house: Internal
+
+- [#637](https://github.com/tanem/default-avatar-helper/pull/637) Update dependency rollup to v2.70.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.75](https://github.com/tanem/default-avatar-helper/tree/v2.0.75) (2022-03-08)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.74...v2.0.75)
 
