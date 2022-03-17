@@ -48,11 +48,11 @@
   "bugs": "https://github.com/tanem/default-avatar-helper/issues",
   "homepage": "https://github.com/tanem/default-avatar-helper",
   "dependencies": {
-    "@babel/runtime": "^7.17.2",
+    "@babel/runtime": "^7.17.7",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "@babel/core": "7.17.5",
+    "@babel/core": "7.17.7",
     "@babel/plugin-transform-runtime": "7.17.0",
     "@babel/preset-env": "7.16.11",
     "@types/jest": "27.4.1",
