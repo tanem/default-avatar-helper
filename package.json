@@ -25,12 +25,12 @@
     "postbundle": "shx rm -rf compiled && shx cp ./index.js ./dist/index.js",
     "release": "tanem-scripts release",
     "test": "run-s check:* lint build test:*",
-    "test:cjs": "jest --config ./scripts/jest/config.cjs.js",
-    "test:cjsprod": "cross-env NODE_ENV=production jest --config ./scripts/jest/config.cjs.js",
-    "test:esm": "jest --config ./scripts/jest/config.esm.js",
-    "test:src": "jest --config ./scripts/jest/config.src.js",
-    "test:umd": "jest --config ./scripts/jest/config.umd.js",
-    "test:umdprod": "jest --config ./scripts/jest/config.umdprod.js"
+    "test:cjs": "jest --config ./config/jest/config.cjs.js",
+    "test:cjsprod": "jest --config ./config/jest/config.cjsprod.js",
+    "test:esm": "jest --config ./config/jest/config.esm.js",
+    "test:src": "jest --config ./config/jest/config.src.js",
+    "test:umd": "jest --config ./config/jest/config.umd.js",
+    "test:umdprod": "jest --config ./config/jest/config.umdprod.js"
   },
   "repository": "github:tanem/default-avatar-helper",
   "keywords": [
@@ -61,7 +61,6 @@
     "@typescript-eslint/parser": "5.27.0",
     "babel-core": "6.26.3",
     "babel-plugin-lodash": "3.3.4",
-    "cross-env": "7.0.3",
     "eslint": "8.16.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-prettier": "4.0.0",
@@ -79,5 +78,8 @@
     "tanem-scripts": "6.0.47",
     "ts-jest": "28.0.3",
     "typescript": "4.7.2"
+  },
+  "engines": {
+    "npm": ">=8.0.0"
   }
 }
