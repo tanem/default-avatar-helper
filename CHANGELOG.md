@@ -1,5 +1,15 @@
 # Changelog
 
+## [v2.0.85](https://github.com/tanem/default-avatar-helper/tree/v2.0.85) (2022-07-02)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.84...v2.0.85)
+
+#### :house: Internal
+
+- [#710](https://github.com/tanem/default-avatar-helper/pull/710) Update dependency tanem-scripts to v6.0.51 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#709](https://github.com/tanem/default-avatar-helper/pull/709) Update typescript-eslint monorepo to v5.30.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#708](https://github.com/tanem/default-avatar-helper/pull/708) Update babel monorepo to v7.18.6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#707](https://github.com/tanem/default-avatar-helper/pull/707) Update styfle/cancel-workflow-action action to v0.10.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.84](https://github.com/tanem/default-avatar-helper/tree/v2.0.84) (2022-06-28)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.83...v2.0.84)
 
