@@ -61,7 +61,7 @@
     "@typescript-eslint/parser": "5.35.1",
     "babel-core": "6.26.3",
     "babel-plugin-lodash": "3.3.4",
-    "eslint": "8.22.0",
+    "eslint": "8.23.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-prettier": "4.2.1",
     "jest": "28.1.3",
