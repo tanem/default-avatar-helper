@@ -1,5 +1,23 @@
 # Changelog
 
+## [v2.0.95](https://github.com/tanem/default-avatar-helper/tree/v2.0.95) (2022-10-29)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.94...v2.0.95)
+
+#### :house: Internal
+
+- [#785](https://github.com/tanem/default-avatar-helper/pull/785) Update dependency jest to v29.2.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#784](https://github.com/tanem/default-avatar-helper/pull/784) Update typescript-eslint monorepo to v5.41.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#783](https://github.com/tanem/default-avatar-helper/pull/783) Update dependency eslint to v8.26.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#782](https://github.com/tanem/default-avatar-helper/pull/782) Update babel monorepo to v7.19.6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#781](https://github.com/tanem/default-avatar-helper/pull/781) Update jest monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+- [#779](https://github.com/tanem/default-avatar-helper/pull/779) Update typescript-eslint monorepo to v5.40.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#778](https://github.com/tanem/default-avatar-helper/pull/778) Update dependency jest to v29.2.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#777](https://github.com/tanem/default-avatar-helper/pull/777) Update styfle/cancel-workflow-action action to v0.11.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#776](https://github.com/tanem/default-avatar-helper/pull/776) Update typescript-eslint monorepo to v5.40.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#775](https://github.com/tanem/default-avatar-helper/pull/775) Update babel monorepo to v7.19.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#774](https://github.com/tanem/default-avatar-helper/pull/774) Update dependency tanem-scripts to v6.0.61 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#773](https://github.com/tanem/default-avatar-helper/pull/773) Update dependency eslint to v8.25.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.94](https://github.com/tanem/default-avatar-helper/tree/v2.0.94) (2022-10-09)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.93...v2.0.94)
 
