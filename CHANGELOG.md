@@ -1,5 +1,18 @@
 # Changelog
 
+## [v2.0.97](https://github.com/tanem/default-avatar-helper/tree/v2.0.97) (2022-11-19)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.96...v2.0.97)
+
+#### :house: Internal
+
+- [#780](https://github.com/tanem/default-avatar-helper/pull/780) Update dependency rollup to v3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#802](https://github.com/tanem/default-avatar-helper/pull/802) Update dependency typescript to v4.9.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#800](https://github.com/tanem/default-avatar-helper/pull/800) Update typescript-eslint monorepo to v5.43.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#798](https://github.com/tanem/default-avatar-helper/pull/798) Update dependency tanem-scripts to v6.0.63 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#801](https://github.com/tanem/default-avatar-helper/pull/801) Update dependency @types/lodash to v4.14.189 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#799](https://github.com/tanem/default-avatar-helper/pull/799) Update dependency @types/jest to v29.2.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#797](https://github.com/tanem/default-avatar-helper/pull/797) Update dependency jest to v29.3.1 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.96](https://github.com/tanem/default-avatar-helper/tree/v2.0.96) (2022-11-11)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.95...v2.0.96)
 
