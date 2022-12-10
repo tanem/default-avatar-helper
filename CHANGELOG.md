@@ -1,5 +1,23 @@
 # Changelog
 
+## [v2.0.99](https://github.com/tanem/default-avatar-helper/tree/v2.0.99) (2022-12-10)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.98...v2.0.99)
+
+#### :house: Internal
+
+- [#819](https://github.com/tanem/default-avatar-helper/pull/819) Update dependency rollup to v3.6.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#820](https://github.com/tanem/default-avatar-helper/pull/820) Update typescript-eslint monorepo to v5.45.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#818](https://github.com/tanem/default-avatar-helper/pull/818) Update dependency @types/jest to v29.2.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#817](https://github.com/tanem/default-avatar-helper/pull/817) Update dependency eslint to v8.29.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#816](https://github.com/tanem/default-avatar-helper/pull/816) Update dependency rollup to v3.5.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#815](https://github.com/tanem/default-avatar-helper/pull/815) Update dependency @types/lodash to v4.14.191 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#814](https://github.com/tanem/default-avatar-helper/pull/814) Update typescript-eslint monorepo to v5.45.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#812](https://github.com/tanem/default-avatar-helper/pull/812) Update dependency tanem-scripts to v6.0.65 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#811](https://github.com/tanem/default-avatar-helper/pull/811) Update dependency @rollup/plugin-commonjs to v23.0.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#813](https://github.com/tanem/default-avatar-helper/pull/813) Update babel monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+- [#810](https://github.com/tanem/default-avatar-helper/pull/810) Update dependency rollup to v3.5.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#809](https://github.com/tanem/default-avatar-helper/pull/809) Update dependency @rollup/plugin-babel to v6.0.3 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.98](https://github.com/tanem/default-avatar-helper/tree/v2.0.98) (2022-11-27)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.97...v2.0.98)
 
