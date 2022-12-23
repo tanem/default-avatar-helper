@@ -1,5 +1,18 @@
 # Changelog
 
+## [v2.0.101](https://github.com/tanem/default-avatar-helper/tree/v2.0.101) (2022-12-23)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.100...v2.0.101)
+
+#### :house: Internal
+
+- [#839](https://github.com/tanem/default-avatar-helper/pull/839) Update typescript-eslint monorepo to v5.47.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#838](https://github.com/tanem/default-avatar-helper/pull/838) Update dependency tanem-scripts to v6.0.67 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#837](https://github.com/tanem/default-avatar-helper/pull/837) Update dependency @rollup/plugin-commonjs to v24 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#835](https://github.com/tanem/default-avatar-helper/pull/835) Update dependency @rollup/plugin-commonjs to v23.0.7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#836](https://github.com/tanem/default-avatar-helper/pull/836) Update dependency @rollup/plugin-replace to v5.0.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#834](https://github.com/tanem/default-avatar-helper/pull/834) Update dependency rollup to v3.7.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#833](https://github.com/tanem/default-avatar-helper/pull/833) Update dependency eslint to v8.30.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.100](https://github.com/tanem/default-avatar-helper/tree/v2.0.100) (2022-12-18)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.99...v2.0.100)
 
