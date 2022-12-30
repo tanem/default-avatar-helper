@@ -1,7 +1,7 @@
 # default-avatar-helper
 
 [![npm version](https://img.shields.io/npm/v/default-avatar-helper.svg?style=flat-square)](https://www.npmjs.com/package/default-avatar-helper)
-[![build status](https://img.shields.io/github/workflow/status/tanem/default-avatar-helper/CI?style=flat-square)](https://github.com/tanem/default-avatar-helper/actions?query=workflow%3ACI)
+[![build status](https://img.shields.io/github/actions/workflow/status/tanem/default-avatar-helper/ci.yml?branch=master&style=flat-square)](https://github.com/tanem/default-avatar-helper/actions?query=workflow%3ACI)
 [![coverage status](https://img.shields.io/codecov/c/github/tanem/default-avatar-helper.svg?style=flat-square)](https://codecov.io/gh/tanem/default-avatar-helper)
 [![npm downloads](https://img.shields.io/npm/dm/default-avatar-helper.svg?style=flat-square)](https://www.npmjs.com/package/default-avatar-helper)
 [![minzipped size](https://img.shields.io/bundlephobia/minzip/default-avatar-helper?style=flat-square)](https://bundlephobia.com/result?p=default-avatar-helper)
