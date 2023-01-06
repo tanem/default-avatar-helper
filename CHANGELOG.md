@@ -1,5 +1,25 @@
 # Changelog
 
+## [v2.0.102](https://github.com/tanem/default-avatar-helper/tree/v2.0.102) (2023-01-06)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.101...v2.0.102)
+
+#### :house: Internal
+
+- [#852](https://github.com/tanem/default-avatar-helper/pull/852) Update typescript-eslint monorepo to v5.48.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#851](https://github.com/tanem/default-avatar-helper/pull/851) Update dependency eslint-config-prettier to v8.6.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#850](https://github.com/tanem/default-avatar-helper/pull/850) Update dependency rollup to v3.9.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#849](https://github.com/tanem/default-avatar-helper/pull/849) Update dependency eslint to v8.31.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#848](https://github.com/tanem/default-avatar-helper/pull/848) Update dependency @types/jest to v29.2.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#847](https://github.com/tanem/default-avatar-helper/pull/847) Update dependency rollup to v3.9.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#846](https://github.com/tanem/default-avatar-helper/pull/846) Use correct @rollup/plugin-terser version ([@tanem](https://github.com/tanem))
+- [#845](https://github.com/tanem/default-avatar-helper/pull/845) Housekeeping ([@tanem](https://github.com/tanem))
+- [#844](https://github.com/tanem/default-avatar-helper/pull/844) Update typescript-eslint monorepo to v5.47.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#843](https://github.com/tanem/default-avatar-helper/pull/843) Update dependency tanem-scripts to v6.0.68 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#842](https://github.com/tanem/default-avatar-helper/pull/842) Update dependency rollup to v3.8.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#841](https://github.com/tanem/default-avatar-helper/pull/841) Update babel monorepo to v7.20.7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#840](https://github.com/tanem/default-avatar-helper/pull/840) Update dependency rollup to v3.8.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#821](https://github.com/tanem/default-avatar-helper/pull/821) Update dependency @rollup/plugin-terser to v0.2.1 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.101](https://github.com/tanem/default-avatar-helper/tree/v2.0.101) (2022-12-23)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.100...v2.0.101)
 
