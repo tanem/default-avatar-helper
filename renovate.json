@@ -15,12 +15,6 @@
     {
       "depTypeList": ["dependencies"],
       "rangeStrategy": "bump"
-    },
-    {
-      "matchPackageNames": [
-        "@rollup/plugin-terser"
-      ],
-      "allowedVersions": "0.1.0"
     }
   ],
   "prCreation": "not-pending",
