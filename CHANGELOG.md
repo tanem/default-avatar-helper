@@ -1,5 +1,14 @@
 # Changelog
 
+## [v2.0.103](https://github.com/tanem/default-avatar-helper/tree/v2.0.103) (2023-01-13)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.102...v2.0.103)
+
+#### :house: Internal
+
+- [#855](https://github.com/tanem/default-avatar-helper/pull/855) Update dependency prettier to v2.8.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#854](https://github.com/tanem/default-avatar-helper/pull/854) Bump @rollup/plugin-terser ([@tanem](https://github.com/tanem))
+- [#853](https://github.com/tanem/default-avatar-helper/pull/853) Update dependency @babel/core to v7.20.12 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.102](https://github.com/tanem/default-avatar-helper/tree/v2.0.102) (2023-01-06)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.101...v2.0.102)
 
