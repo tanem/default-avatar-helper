@@ -1,5 +1,25 @@
 # Changelog
 
+## [v2.0.105](https://github.com/tanem/default-avatar-helper/tree/v2.0.105) (2023-02-04)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.104...v2.0.105)
+
+#### :house: Internal
+
+- [#877](https://github.com/tanem/default-avatar-helper/pull/877) Update dependency rollup to v3.12.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#876](https://github.com/tanem/default-avatar-helper/pull/876) Update typescript-eslint monorepo to v5.50.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#875](https://github.com/tanem/default-avatar-helper/pull/875) Update dependency typescript to v4.9.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#874](https://github.com/tanem/default-avatar-helper/pull/874) Update dependency eslint to v8.33.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#873](https://github.com/tanem/default-avatar-helper/pull/873) Update dependency rollup to v3.12.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#872](https://github.com/tanem/default-avatar-helper/pull/872) Update dependency jest to v29.4.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#871](https://github.com/tanem/default-avatar-helper/pull/871) Update dependency rollup to v3.11.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#870](https://github.com/tanem/default-avatar-helper/pull/870) Update jest monorepo to v29.4.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#869](https://github.com/tanem/default-avatar-helper/pull/869) Update dependency @rollup/plugin-terser to v0.4.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#868](https://github.com/tanem/default-avatar-helper/pull/868) Update typescript-eslint monorepo to v5.49.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#867](https://github.com/tanem/default-avatar-helper/pull/867) Update dependency @babel/runtime to ^7.20.13 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#866](https://github.com/tanem/default-avatar-helper/pull/866) Update dependency @rollup/plugin-commonjs to v24.0.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#865](https://github.com/tanem/default-avatar-helper/pull/865) Update dependency rollup to v3.10.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#864](https://github.com/tanem/default-avatar-helper/pull/864) Update dependency @types/jest to v29.2.6 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.104](https://github.com/tanem/default-avatar-helper/tree/v2.0.104) (2023-01-20)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.103...v2.0.104)
 
