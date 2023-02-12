@@ -1,5 +1,16 @@
 # Changelog
 
+## [v2.0.106](https://github.com/tanem/default-avatar-helper/tree/v2.0.106) (2023-02-12)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.105...v2.0.106)
+
+#### :house: Internal
+
+- [#882](https://github.com/tanem/default-avatar-helper/pull/882) Update dependency prettier to v2.8.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#881](https://github.com/tanem/default-avatar-helper/pull/881) Update dependency jest to v29.4.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#880](https://github.com/tanem/default-avatar-helper/pull/880) Update typescript-eslint monorepo to v5.51.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#878](https://github.com/tanem/default-avatar-helper/pull/878) Update dependency rollup to v3.14.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#879](https://github.com/tanem/default-avatar-helper/pull/879) Update dependency tanem-scripts to v6.0.70 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.105](https://github.com/tanem/default-avatar-helper/tree/v2.0.105) (2023-02-04)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.104...v2.0.105)
 
