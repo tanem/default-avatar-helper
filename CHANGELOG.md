@@ -1,5 +1,17 @@
 # Changelog
 
+## [v2.0.112](https://github.com/tanem/default-avatar-helper/tree/v2.0.112) (2023-03-27)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.111...v2.0.112)
+
+#### :house: Internal
+
+- [#910](https://github.com/tanem/default-avatar-helper/pull/910) Update tanem-scripts ([@tanem](https://github.com/tanem))
+- [#909](https://github.com/tanem/default-avatar-helper/pull/909) Add universal-user-agent override ([@tanem](https://github.com/tanem))
+- [#907](https://github.com/tanem/default-avatar-helper/pull/907) Update dependency tanem-scripts to v6.0.77 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#906](https://github.com/tanem/default-avatar-helper/pull/906) Update dependency rollup to v3.19.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#908](https://github.com/tanem/default-avatar-helper/pull/908) Update dependency eslint to v8.36.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#905](https://github.com/tanem/default-avatar-helper/pull/905) Update dependency rollup to v3.19.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.111](https://github.com/tanem/default-avatar-helper/tree/v2.0.111) (2023-03-10)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.110...v2.0.111)
 
