@@ -1,5 +1,16 @@
 # Changelog
 
+## [v2.0.117](https://github.com/tanem/default-avatar-helper/tree/v2.0.117) (2023-05-20)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.116...v2.0.117)
+
+#### :house: Internal
+
+- [#960](https://github.com/tanem/default-avatar-helper/pull/960) Update dependency @rollup/plugin-terser to v0.4.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#959](https://github.com/tanem/default-avatar-helper/pull/959) Update typescript-eslint monorepo to v5.59.6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#958](https://github.com/tanem/default-avatar-helper/pull/958) Update dependency tanem-scripts to v7.0.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#957](https://github.com/tanem/default-avatar-helper/pull/957) Update dependency @rollup/plugin-commonjs to v25 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#956](https://github.com/tanem/default-avatar-helper/pull/956) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.116](https://github.com/tanem/default-avatar-helper/tree/v2.0.116) (2023-05-12)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.115...v2.0.116)
 
