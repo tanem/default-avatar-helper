@@ -52,9 +52,9 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "@babel/core": "7.22.0",
-    "@babel/plugin-transform-runtime": "7.22.0",
-    "@babel/preset-env": "7.22.0",
+    "@babel/core": "7.22.1",
+    "@babel/plugin-transform-runtime": "7.22.2",
+    "@babel/preset-env": "7.22.2",
     "@rollup/plugin-babel": "6.0.3",
     "@rollup/plugin-commonjs": "25.0.0",
     "@rollup/plugin-node-resolve": "15.0.2",
