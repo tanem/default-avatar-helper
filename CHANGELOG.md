@@ -1,5 +1,18 @@
 # Changelog
 
+## [v2.0.119](https://github.com/tanem/default-avatar-helper/tree/v2.0.119) (2023-06-02)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.118...v2.0.119)
+
+#### :house: Internal
+
+- [#973](https://github.com/tanem/default-avatar-helper/pull/973) Update babel monorepo to v7.22.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#972](https://github.com/tanem/default-avatar-helper/pull/972) Update dependency @babel/runtime to ^7.22.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#971](https://github.com/tanem/default-avatar-helper/pull/971) Update dependency tanem-scripts to v7.0.7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#970](https://github.com/tanem/default-avatar-helper/pull/970) Update babel monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+- [#969](https://github.com/tanem/default-avatar-helper/pull/969) Update babel monorepo to v7.22.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#968](https://github.com/tanem/default-avatar-helper/pull/968) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#967](https://github.com/tanem/default-avatar-helper/pull/967) Update dependency @types/lodash to v4.14.195 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.118](https://github.com/tanem/default-avatar-helper/tree/v2.0.118) (2023-05-26)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.117...v2.0.118)
 
