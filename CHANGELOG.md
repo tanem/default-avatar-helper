@@ -1,5 +1,35 @@
 # Changelog
 
+## [v2.0.123](https://github.com/tanem/default-avatar-helper/tree/v2.0.123) (2023-07-20)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.122...v2.0.123)
+
+#### :house: Internal
+
+- [#1027](https://github.com/tanem/default-avatar-helper/pull/1027) Update dependency rollup to v3.26.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1026](https://github.com/tanem/default-avatar-helper/pull/1026) Update dependency @rollup/plugin-commonjs to v25.0.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1025](https://github.com/tanem/default-avatar-helper/pull/1025) Update dependency eslint to v8.45.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1024](https://github.com/tanem/default-avatar-helper/pull/1024) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1023](https://github.com/tanem/default-avatar-helper/pull/1023) Update babel monorepo to v7.22.9 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1020](https://github.com/tanem/default-avatar-helper/pull/1020) Update typescript-eslint monorepo to v5.62.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1019](https://github.com/tanem/default-avatar-helper/pull/1019) Update dependency @types/jest to v29.5.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1018](https://github.com/tanem/default-avatar-helper/pull/1018) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1017](https://github.com/tanem/default-avatar-helper/pull/1017) Update dependency jest to v29.6.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1016](https://github.com/tanem/default-avatar-helper/pull/1016) Update dependency @babel/core to v7.22.8 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1015](https://github.com/tanem/default-avatar-helper/pull/1015) Update dependency rollup to v3.26.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1014](https://github.com/tanem/default-avatar-helper/pull/1014) Update babel monorepo to v7.22.7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1012](https://github.com/tanem/default-avatar-helper/pull/1012) Update dependency rollup to v3.26.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1011](https://github.com/tanem/default-avatar-helper/pull/1011) Update dependency jest to v29.6.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1010](https://github.com/tanem/default-avatar-helper/pull/1010) Update babel monorepo to v7.22.6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1009](https://github.com/tanem/default-avatar-helper/pull/1009) Update typescript-eslint monorepo to v5.61.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1008](https://github.com/tanem/default-avatar-helper/pull/1008) Update dependency eslint to v8.44.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1007](https://github.com/tanem/default-avatar-helper/pull/1007) Update dependency tanem-scripts to v7.0.11 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1006](https://github.com/tanem/default-avatar-helper/pull/1006) Update dependency ts-jest to v29.1.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1005](https://github.com/tanem/default-avatar-helper/pull/1005) Update dependency rollup to v3.26.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1004](https://github.com/tanem/default-avatar-helper/pull/1004) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1003](https://github.com/tanem/default-avatar-helper/pull/1003) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1002](https://github.com/tanem/default-avatar-helper/pull/1002) Update dependency typescript to v5.1.6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1001](https://github.com/tanem/default-avatar-helper/pull/1001) Update dependency typescript to v5.1.5 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.122](https://github.com/tanem/default-avatar-helper/tree/v2.0.122) (2023-06-30)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.121...v2.0.122)
 
