@@ -18,14 +18,14 @@ const getInitials = pipe(
   map(upperFirst),
   flatMap(slice(0, 1)),
   slice(0, 2),
-  join('')
+  join(''),
 )
 
 const getCode = pipe(
   split(''),
   map((c) => c.charCodeAt(0)),
   join(''),
-  parseInt(10)
+  parseInt(10),
 )
 
 const getColour = (palette: Palette, initials: string) =>
@@ -36,5 +36,5 @@ export const getDefaultAvatarDetails = curry(
     const initials = getInitials(name)
     const colour = getColour(palette, initials)
     return { colour, initials }
-  }
+  },
 )
