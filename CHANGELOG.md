@@ -1,5 +1,22 @@
 # Changelog
 
+## [v2.0.124](https://github.com/tanem/default-avatar-helper/tree/v2.0.124) (2023-08-05)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.123...v2.0.124)
+
+#### :house: Internal
+
+- [#1021](https://github.com/tanem/default-avatar-helper/pull/1021) Update typescript-eslint monorepo to v6 (major) ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1022](https://github.com/tanem/default-avatar-helper/pull/1022) Update dependency eslint-plugin-prettier to v5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1013](https://github.com/tanem/default-avatar-helper/pull/1013) Update dependency prettier to v3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1035](https://github.com/tanem/default-avatar-helper/pull/1035) Update dependency rollup to v3.27.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1034](https://github.com/tanem/default-avatar-helper/pull/1034) Update dependency eslint to v8.46.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1033](https://github.com/tanem/default-avatar-helper/pull/1033) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1032](https://github.com/tanem/default-avatar-helper/pull/1032) Update dependency eslint-config-prettier to v8.9.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1031](https://github.com/tanem/default-avatar-helper/pull/1031) Update dependency jest to v29.6.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1030](https://github.com/tanem/default-avatar-helper/pull/1030) Update dependency @types/lodash to v4.14.196 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1029](https://github.com/tanem/default-avatar-helper/pull/1029) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1028](https://github.com/tanem/default-avatar-helper/pull/1028) Update dependency tanem-scripts to v7.0.12 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.123](https://github.com/tanem/default-avatar-helper/tree/v2.0.123) (2023-07-20)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.122...v2.0.123)
 
