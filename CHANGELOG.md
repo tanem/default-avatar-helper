@@ -1,5 +1,18 @@
 # Changelog
 
+## [v2.0.126](https://github.com/tanem/default-avatar-helper/tree/v2.0.126) (2023-08-18)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.125...v2.0.126)
+
+#### :house: Internal
+
+- [#1051](https://github.com/tanem/default-avatar-helper/pull/1051) Update typescript-eslint monorepo to v6.4.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1050](https://github.com/tanem/default-avatar-helper/pull/1050) Update dependency tanem-scripts to v7.0.14 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1049](https://github.com/tanem/default-avatar-helper/pull/1049) Update dependency @rollup/plugin-commonjs to v25.0.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1048](https://github.com/tanem/default-avatar-helper/pull/1048) Update dependency eslint to v8.47.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1047](https://github.com/tanem/default-avatar-helper/pull/1047) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1046](https://github.com/tanem/default-avatar-helper/pull/1046) Update dependency @types/lodash to v4.14.197 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1045](https://github.com/tanem/default-avatar-helper/pull/1045) Update dependency rollup to v3.28.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.125](https://github.com/tanem/default-avatar-helper/tree/v2.0.125) (2023-08-11)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.124...v2.0.125)
 
