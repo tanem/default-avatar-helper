@@ -62,7 +62,7 @@
     "@rollup/plugin-replace": "5.0.2",
     "@rollup/plugin-terser": "0.4.3",
     "@types/jest": "29.5.5",
-    "@types/lodash": "4.14.198",
+    "@types/lodash": "4.14.199",
     "@typescript-eslint/eslint-plugin": "6.7.2",
     "@typescript-eslint/parser": "6.7.2",
     "babel-core": "6.26.3",
