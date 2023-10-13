@@ -1,5 +1,22 @@
 # Changelog
 
+## [v2.0.133](https://github.com/tanem/default-avatar-helper/tree/v2.0.133) (2023-10-13)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.132...v2.0.133)
+
+#### :house: Internal
+
+- [#1112](https://github.com/tanem/default-avatar-helper/pull/1112) Update typescript-eslint monorepo to v6.7.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1111](https://github.com/tanem/default-avatar-helper/pull/1111) Update dependency @rollup/plugin-node-resolve to v15.2.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1110](https://github.com/tanem/default-avatar-helper/pull/1110) Update dependency tanem-scripts to v7.0.21 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1109](https://github.com/tanem/default-avatar-helper/pull/1109) Update dependency eslint to v8.51.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1108](https://github.com/tanem/default-avatar-helper/pull/1108) Update dependency rollup to v4.0.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1107](https://github.com/tanem/default-avatar-helper/pull/1107) Update dependency rollup to v4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1106](https://github.com/tanem/default-avatar-helper/pull/1106) Update dependency @rollup/plugin-terser to v0.4.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1105](https://github.com/tanem/default-avatar-helper/pull/1105) Update dependency @rollup/plugin-replace to v5.0.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1104](https://github.com/tanem/default-avatar-helper/pull/1104) Update dependency @rollup/plugin-node-resolve to v15.2.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1103](https://github.com/tanem/default-avatar-helper/pull/1103) Update dependency @rollup/plugin-commonjs to v25.0.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1102](https://github.com/tanem/default-avatar-helper/pull/1102) Update dependency @rollup/plugin-babel to v6.0.4 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.132](https://github.com/tanem/default-avatar-helper/tree/v2.0.132) (2023-10-07)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.131...v2.0.132)
 
