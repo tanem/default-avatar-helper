@@ -1,5 +1,38 @@
 # Changelog
 
+## [v2.0.136](https://github.com/tanem/default-avatar-helper/tree/v2.0.136) (2023-12-15)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.135...v2.0.136)
+
+#### :house: Internal
+
+- [#1180](https://github.com/tanem/default-avatar-helper/pull/1180) Update typescript-eslint monorepo to v6.14.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1179](https://github.com/tanem/default-avatar-helper/pull/1179) Update dependency rollup to v4.8.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1178](https://github.com/tanem/default-avatar-helper/pull/1178) Update babel monorepo to v7.23.6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1177](https://github.com/tanem/default-avatar-helper/pull/1177) Update dependency prettier to v3.1.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1176](https://github.com/tanem/default-avatar-helper/pull/1176) Update dependency rollup to v4.7.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1175](https://github.com/tanem/default-avatar-helper/pull/1175) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1174](https://github.com/tanem/default-avatar-helper/pull/1174) Update dependency typescript to v5.3.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1173](https://github.com/tanem/default-avatar-helper/pull/1173) Update dependency @types/jest to v29.5.11 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1172](https://github.com/tanem/default-avatar-helper/pull/1172) Update typescript-eslint monorepo to v6.13.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1171](https://github.com/tanem/default-avatar-helper/pull/1171) Update dependency eslint-config-prettier to v9.1.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1170](https://github.com/tanem/default-avatar-helper/pull/1170) Update dependency eslint to v8.55.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1169](https://github.com/tanem/default-avatar-helper/pull/1169) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1168](https://github.com/tanem/default-avatar-helper/pull/1168) Update dependency rollup to v4.6.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1167](https://github.com/tanem/default-avatar-helper/pull/1167) Update babel monorepo to v7.23.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1166](https://github.com/tanem/default-avatar-helper/pull/1166) Update typescript-eslint monorepo to v6.13.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1165](https://github.com/tanem/default-avatar-helper/pull/1165) Update typescript-eslint monorepo to v6.13.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1164](https://github.com/tanem/default-avatar-helper/pull/1164) Update dependency rollup to v4.6.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1163](https://github.com/tanem/default-avatar-helper/pull/1163) Update dependency rollup to v4.5.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1162](https://github.com/tanem/default-avatar-helper/pull/1162) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1161](https://github.com/tanem/default-avatar-helper/pull/1161) Update dependency @types/jest to v29.5.10 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1160](https://github.com/tanem/default-avatar-helper/pull/1160) Update dependency rollup to v4.5.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1159](https://github.com/tanem/default-avatar-helper/pull/1159) Update dependency tanem-scripts to v7.0.24 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1158](https://github.com/tanem/default-avatar-helper/pull/1158) Update dependency @types/lodash to v4.14.202 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1157](https://github.com/tanem/default-avatar-helper/pull/1157) Update dependency @types/jest to v29.5.9 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1156](https://github.com/tanem/default-avatar-helper/pull/1156) Update typescript-eslint monorepo to v6.12.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1155](https://github.com/tanem/default-avatar-helper/pull/1155) Update dependency typescript to v5.3.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#1154](https://github.com/tanem/default-avatar-helper/pull/1154) Update babel monorepo to v7.23.4 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v2.0.135](https://github.com/tanem/default-avatar-helper/tree/v2.0.135) (2023-11-21)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.134...v2.0.135)
 
