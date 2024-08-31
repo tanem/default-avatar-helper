@@ -48,7 +48,7 @@
   "bugs": "https://github.com/tanem/default-avatar-helper/issues",
   "homepage": "https://github.com/tanem/default-avatar-helper",
   "dependencies": {
-    "@babel/runtime": "^7.25.4",
+    "@babel/runtime": "^7.25.6",
     "lodash": "^4.17.21",
     "tslib": "^2.7.0"
   },
