@@ -1,5 +1,12 @@
 # Changelog
 
+## [v2.0.140](https://github.com/tanem/default-avatar-helper/tree/v2.0.140) (2024-08-31)
+[Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.139...v2.0.140)
+
+#### :house: Internal
+
+- [#1367](https://github.com/tanem/default-avatar-helper/pull/1367) Tidy build config ([@tanem](https://github.com/tanem))
+
 ## [v2.0.139](https://github.com/tanem/default-avatar-helper/tree/v2.0.139) (2024-08-31)
 [Full Changelog](https://github.com/tanem/default-avatar-helper/compare/v2.0.138...v2.0.139)
 
