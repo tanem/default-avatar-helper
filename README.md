@@ -1,5 +1,7 @@
 # default-avatar-helper
 
+> **Unmaintained.** This project is no longer maintained and the repository is archived. The npm package is deprecated.
+
 [![npm version](https://img.shields.io/npm/v/default-avatar-helper.svg?style=flat-square)](https://www.npmjs.com/package/default-avatar-helper)
 [![build status](https://img.shields.io/github/actions/workflow/status/tanem/default-avatar-helper/ci.yml?branch=master&style=flat-square)](https://github.com/tanem/default-avatar-helper/actions?query=workflow%3ACI)
 [![coverage status](https://img.shields.io/codecov/c/github/tanem/default-avatar-helper.svg?style=flat-square)](https://codecov.io/gh/tanem/default-avatar-helper)
